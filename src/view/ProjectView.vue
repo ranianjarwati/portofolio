@@ -93,7 +93,7 @@
                 <!-- Kegiatan 1 -->
                 <div class="project-card">
                     <div class="project-image">
-                        <img src="/gambar/magang-1.png" alt="Koordinasi Tim">
+                        <img src="#" alt="Koordinasi Tim">
                     </div>
                     <div class="project-body">
                         <h3>Briefing & Koordinasi Tim</h3>
@@ -104,7 +104,7 @@
                 <!-- Kegiatan 2 -->
                 <div class="project-card">
                     <div class="project-image">
-                        <img src="/gambar/magang-2.png" alt="Pengembangan Sistem">
+                        <img src="#" alt="Pengembangan Sistem">
                     </div>
                     <div class="project-body">
                         <h3>Pengembangan & Coding Proyek</h3>
@@ -115,7 +115,7 @@
                 <!-- Kegiatan 3 -->
                 <div class="project-card">
                     <div class="project-image">
-                        <img src="/gambar/magang-3.png" alt="Presentasi Hasil">
+                        <img src="#" alt="Presentasi Hasil">
                     </div>
                     <div class="project-body">
                         <h3>Presentasi & Evaluasi</h3>
