@@ -1,6 +1,6 @@
 <template>
     <div>
-        <!-- Proyek -->
+        <!-- Proyek Unggulan -->
         <section id="projects">
             <h2 class="section-title">Proyek <span>Unggulan</span></h2>
             <div class="projects-grid">
@@ -81,6 +81,48 @@
                         <p>Panel kontrol administratif berbasis web yang dikhususkan bagi pengelola untuk memantau data secara terpusat. Dilengkapi dengan ringkasan statistik produk secara real-time (total produk ber-SNI, pangan, dan non-pangan), grafik distribusi kategori produk, serta menu manajemen konten CMS.</p>
                     </div>
                 </div>
+
+            </div>
+        </section>
+
+        <!-- Section Baru: Kegiatan Magang & Dokumentasi Gambar -->
+        <section id="internship-activities" style="margin-top: 60px;">
+            <h2 class="section-title">Dokumentasi <span>Kegiatan Magang</span></h2>
+            <div class="projects-grid">
+                
+                <!-- Kegiatan 1 -->
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="/gambar/magang-1.png" alt="Koordinasi Tim">
+                    </div>
+                    <div class="project-body">
+                        <h3>Briefing & Koordinasi Tim</h3>
+                        <p>Mengikuti sesi diskusi harian bersama pembimbing lapangan dan rekan tim untuk membahas progres tugas serta pembagian kerja.</p>
+                    </div>
+                </div>
+
+                <!-- Kegiatan 2 -->
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="/gambar/magang-2.png" alt="Pengembangan Sistem">
+                    </div>
+                    <div class="project-body">
+                        <h3>Pengembangan & Coding Proyek</h3>
+                        <p>Proses penulisan kode program, perancangan antarmuka, serta integrasi sistem sesuai dengan kebutuhan perusahaan tempat magang.</p>
+                    </div>
+                </div>
+
+                <!-- Kegiatan 3 -->
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="/gambar/magang-3.png" alt="Presentasi Hasil">
+                    </div>
+                    <div class="project-body">
+                        <h3>Presentasi & Evaluasi</h3>
+                        <p>Memaparkan hasil kerja dan modul aplikasi yang telah diselesaikan kepada pihak manajemen atau mentor di akhir periode magang.</p>
+                    </div>
+                </div>
+
             </div>
         </section>
     </div>
