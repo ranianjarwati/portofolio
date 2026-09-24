@@ -29,7 +29,7 @@
                     <!-- Foto Profil Bulat dengan Bingkai Warna Utama -->
                     <div style="flex: 1; min-width: 220px; max-width: 260px; text-align: center;">
                         <div style="padding: 6px; background: var(--primary-color, #82819d); border-radius: 50%; box-shadow: 0 10px 25px rgba(79, 70, 229, 0.2);">
-                            <img src="/gambar/21.jpg" alt="Foto Rani Anjarwati" style="width: 100%; height: 240px; border-radius: 50%; object-fit: cover; display: block; border: 4px solid #ffffff;" />
+                            <img src="/gambar/23.jpg" alt="Foto Rani Anjarwati" style="width: 100%; height: 240px; border-radius: 50%; object-fit: cover; display: block; border: 4px solid #ffffff;" />
                         </div>
                     </div>
                     
