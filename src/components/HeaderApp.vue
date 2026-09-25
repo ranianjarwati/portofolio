@@ -6,6 +6,7 @@
                 <li><router-link to="/#about">Tentang</router-link></li>
                 <li><router-link to="/#skills">keahlian</router-link></li>
                 <li><router-link to="/project">Proyek</router-link></li>
+                <li><router-link to="/Dokumentasi">Dokumentasi</router-link></li>
                 <li><router-link to="/contact">kontak</router-link></li>
             </ul>
         </div>
